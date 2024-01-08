@@ -1,3 +1,12 @@
+<style>
+  body{
+    background-color: #373737;
+    color: #c5c5c5;
+  }
+  code{
+    color: #507d9f;
+  }
+</style>
 ## SOBRE OS EXERCÍCIOS
 
 1. INTERPRETAR, MEDIANTE PESQUISA, A ESTRUTURA BÁSICA DO HTML;
