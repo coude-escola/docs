@@ -1,3 +1,9 @@
+<style>
+  body{
+    background-color: #555;
+    color: #ddd;
+  }
+</style>
 # HTML - INTRODUÇÃO
 
 ## DEFINIÇÃO
