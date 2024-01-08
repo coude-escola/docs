@@ -1,7 +1,10 @@
 <style>
   body{
-    background-color: #555;
-    color: #ddd;
+    background-color: #373737;
+    color: #c5c5c5;
+  }
+  code{
+    color: #507d9f;
   }
 </style>
 # HTML - INTRODUÇÃO
