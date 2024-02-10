@@ -1,3 +1,12 @@
+<style>
+  body{
+    background-color: #373737;
+    color: #c5c5c5;
+  }
+  code{
+    color: #507d9f;
+  }
+</style>
 # INTRODUÇÃO AO PHP
 
 Conhecendo tipos de valores, instância de variáveis e constantes e operadores no PHP.
