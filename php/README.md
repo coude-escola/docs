@@ -22,7 +22,7 @@
   - [Lógicos](https://coude-escola.github.io/docs/php/operadores/logicos/)
 - [Verificadores Condicionais](https://coude-escola.github.io/docs/php/verificadores-condicionais/)
   - [If / Else if / Else](https://coude-escola.github.io/docs/php/verificadores-condicionais/if/)
-  - [Verificador Ternário](https://coude-escola.github.io/docs/php/verificador-ternario/)
+  - [Verificador Ternário](https://coude-escola.github.io/docs/php/verificadores-condicionais/verificador-ternario/)
   - [Switch](https://coude-escola.github.io/docs/php/verificadores-condicionais/switch/)
 
 <!-- remoção do link inicial -->

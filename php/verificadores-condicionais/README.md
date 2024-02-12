@@ -16,7 +16,7 @@
 
 # [PHP](https://coude-escola.github.io/docs/php/) - [Verificadores condicionais](https://coude-escola.github.io/docs/php/verificadores-condicionais/) - Sumário
   - [If / Else if / Else](https://coude-escola.github.io/docs/php/verificadores-condicionais/if/)
-  - [Verificador Ternário](https://coude-escola.github.io/docs/php/verificador-ternario/)
+  - [Verificador Ternário](https://coude-escola.github.io/docs/php/verificadores-condicionais/verificador-ternario/)
   - [Switch](https://coude-escola.github.io/docs/php/verificadores-condicionais/switch/)
 
 <!-- remoção do link inicial -->
