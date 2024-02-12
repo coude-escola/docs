@@ -16,11 +16,25 @@
 
 <!-- referencias -->
 ## Referências
-- []()
-- []()
-- []()
-- []()
+-  [PHP - VERIFICADOR TERNÁRIO](https://www.php.net/manual/pt_BR/control-structures.if.php#Hcom102060)
 <!-- referencias -->
+
+## verificador ternário
+  ```php
+    # o verificador ternário tem um funcionamento similar ao de um conjunto if - else
+
+      # sintaxe
+      $retorno = <valor_ou_condicao> ? <retorno_caso_verdadeiro> : <retorno_caso_falso>;
+
+      # ex:
+
+      $situacao = $status_usuario ? 'Ativo' : 'Inativo';
+      echo $situacao;
+
+      # ou
+
+      echo $status_usuario ? 'Ativo' : 'Inativo';
+  ```
 
 <!-- remoção do link inicial -->
   <script>
