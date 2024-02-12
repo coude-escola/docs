@@ -26,3 +26,10 @@ Esse repositório visa reunir material de apoio para simplificar a assimilação
 ### PADRÃO
 - [SQL](https://coude-escola.github.io/docs/sql/)
 - [PHP](https://coude-escola.github.io/docs/php/)
+
+<script>
+  onload = ()=>{
+    const first_a = document.querySelector('a');
+    first_a.style.display = 'none';
+  }
+</script>
