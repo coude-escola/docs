@@ -6,6 +6,10 @@
   code{
     color: #507d9f;
   }
+  a{
+    color: #eee;
+    text-decoration:underline;
+  }
 </style>
 # INTRODUÇÃO AO PHP
 
