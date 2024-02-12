@@ -1,3 +1,13 @@
+<style>
+  body{
+    background-color: #373737;
+    color: #c5c5c5;
+  }
+  code{
+    color: #507d9f;
+  }
+</style>
+
 # Documentos de Apoio COUDE
 
 Esse repositório visa reunir material de apoio para simplificar a assimilação de conteúdos relacionados à programação e tecnologia.
