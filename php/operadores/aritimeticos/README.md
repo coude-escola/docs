@@ -14,6 +14,8 @@
   </style>
 <!-- coloração da página -->
 
+[PHP](https://coude-escola.github.io/docs/php/) - [Operadores](https://coude-escola.github.io/docs/php/operadores/)
+
 <!-- referencias -->
 ## Referências
 -  [PHP - OPERADORES ARITIMÉTICOS](https://www.php.net/manual/pt_BR/language.operators.arithmetic.php)

@@ -14,6 +14,8 @@
   </style>
 <!-- coloração da página -->
 
+[PHP](https://coude-escola.github.io/docs/php/) - [Verificadores condicionais](https://coude-escola.github.io/docs/php/verificadores-condicionais/)
+
 <!-- referencias -->
 ## Referências
 -  [PHP - IF](https://www.php.net/manual/pt_BR/control-structures.else.php)
