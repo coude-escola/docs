@@ -16,11 +16,38 @@
 
 <!-- referencias -->
 ## Referências
-- []()
-- []()
-- []()
-- []()
+-  [PHP - OPERADORES LÓGICOS](https://www.php.net/manual/pt_BR/language.operators.logical.php)
 <!-- referencias -->
+
+### -> Operadores Lógicos
+- !
+  ```php
+    $comparacao = 8 == '8'; 
+    # true
+    
+    var_dump(!$comparacao);
+    # false
+  ```
+- ||
+  ```php
+    $comparacao_1 = 8 === '8';
+    # false
+    $comparacao_2 = 8 < 65;
+    # true
+
+    var_dump($comparacao_1 || $comparacao_2);
+    # true
+  ```
+- &&
+  ```php
+    $comparacao_1 = 8 === '8';
+    # false
+    $comparacao_2 = 8 < 65;
+    # true
+    
+    var_dump($comparacao_1 && $comparacao_2);
+    # false
+  ```
 
 <!-- remoção do link inicial -->
   <script>

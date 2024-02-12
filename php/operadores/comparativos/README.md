@@ -16,11 +16,50 @@
 
 <!-- referencias -->
 ## Referências
-- []()
-- []()
-- []()
-- []()
+-  [PHP - OPERADORES DE COMPARAÇÃO](https://www.php.net/manual/pt_BR/language.operators.comparison.php)
 <!-- referencias -->
+
+### -> Operadores Comparativos
+- Igual:
+  ```php
+  var_dump(8 == '8');
+  # true
+  ```
+- Diferente:
+  ```php
+  var_dump(8 != 8);
+  # false
+  ```
+- Idêntico:
+  ```php
+  var_dump(0 === false);
+  # false
+  ```
+- Não identico:
+  ```php
+  var_dump(0 !== false);
+  # true
+  ```
+- Menor que:
+  ```php
+  var_dump(6 < 8);
+  # true
+  ```
+- Menor ou igual a:
+  ```php
+  var_dump(8 <= 8);
+  # true
+  ```
+- Maior que:
+  ```php
+  var_dump(8 > 8);
+  # false
+  ```
+- Maior ou igual a:
+  ```php
+  var_dump(9 >= 8);
+  # true
+  ```
 
 <!-- remoção do link inicial -->
   <script>
