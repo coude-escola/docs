@@ -255,3 +255,9 @@ Vocês verão que existem alguns valores que não foram exibidos aqui. Isso ocor
         break;
     }
 ```
+<script>
+  onload = ()=>{
+    const first_a = document.querySelector('a');
+    first_a.style.display = 'none';
+  }
+</script>
