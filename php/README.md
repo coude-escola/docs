@@ -11,6 +11,21 @@
 
 Conhecendo tipos de valores, instância de variáveis e constantes e operadores no PHP.
 
+<!-- referencias -->
+## Referências
+-  [PHP - TIPOS DOS VALORES](https://www.php.net/manual/pt_BR/language.types.intro.php)
+-  [PHP - DEFINIÇÃO DE VARIÁVEIS](https://www.php.net/manual/pt_BR/language.variables.basics.php)
+-  [PHP - DEFINIÇÃO DE CONSTANTES](https://www.php.net/manual/pt_BR/language.constants.syntax.php)
+-  [PHP - OPERADORES ARITIMÉTICOS](https://www.php.net/manual/pt_BR/language.operators.arithmetic.php)
+-  [PHP - ACRÉCIMO E DECRÉCIMO](https://www.php.net/manual/pt_BR/language.operators.increment.php)
+-  [PHP - OPERADORES DE ATRIBUIÇÃO](https://www.php.net/manual/pt_BR/language.operators.assignment.php)
+-  [PHP - OPERADORES DE COMPARAÇÃO](https://www.php.net/manual/pt_BR/language.operators.comparison.php)
+-  [PHP - OPERADORES LÓGICOS](https://www.php.net/manual/pt_BR/language.operators.logical.php)
+-  [PHP - IF](https://www.php.net/manual/pt_BR/control-structures.else.php)
+-  [PHP - ELSE](https://www.php.net/manual/pt_BR/control-structures.else.php)
+-  [PHP - VERIFICADOR TERNÁRIO](https://www.php.net/manual/pt_BR/control-structures.if.php#Hcom102060)
+-  [PHP - SWITCH](https://www.php.net/manual/pt_BR/control-structures.switch.php)
+<!-- referencias -->
 
 ## RESUMO
 
