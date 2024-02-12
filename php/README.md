@@ -15,7 +15,7 @@
 <!-- coloração da página -->
 
 # [PHP](https://coude-escola.github.io/docs/php/) - Sumário
-- [Introdução](https://coude-escola.github.io/docs/php/introducao.md)
+- [Introdução](https://coude-escola.github.io/docs/php/introducao)
 - [Operadores](https://coude-escola.github.io/docs/php/operadores/)
   - [Aritiméticos](https://coude-escola.github.io/docs/php/operadores/aritimeticos/)
   - [Comparativos](https://coude-escola.github.io/docs/php/operadores/comparativos/)
