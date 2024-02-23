@@ -14,10 +14,10 @@
   </style>
 <!-- coloração da página -->
 
-# [PHP](https://coude-escola.github.io/docs/php/) - [Verificadores condicionais](https://coude-escola.github.io/docs/php/verificadores-condicionais/) - Sumário
-  - [If / Else if / Else](https://coude-escola.github.io/docs/php/verificadores-condicionais/if/)
-  - [Verificador Ternário](https://coude-escola.github.io/docs/php/verificadores-condicionais/verificador-ternario/)
-  - [Switch](https://coude-escola.github.io/docs/php/verificadores-condicionais/switch/)
+# [PHP](/docs/php/) - [Verificadores condicionais](/docs/php/verificadores-condicionais/) - Sumário
+  - [If / Else if / Else](/docs/php/verificadores-condicionais/if/)
+  - [Verificador Ternário](/docs/php/verificadores-condicionais/verificador-ternario/)
+  - [Switch](/docs/php/verificadores-condicionais/switch/)
 
 <!-- remoção do link inicial -->
   <script>

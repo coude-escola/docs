@@ -14,7 +14,7 @@
   </style>
 <!-- coloração da página -->
 
-[PHP](https://coude-escola.github.io/docs/php/) - [Operadores](https://coude-escola.github.io/docs/php/operadores/)
+[PHP](/docs/php/) - [Operadores](/docs/php/operadores/)
 
 <!-- referencias -->
 ## Referências

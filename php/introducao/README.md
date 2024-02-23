@@ -16,7 +16,7 @@
 
 Conhecendo tipos de valores, instância de variáveis e constantes e operadores no PHP.
 
-[Sumário](https://coude-escola.github.io/docs/php/)
+[Sumário](/docs/php/)
 
 <!-- referencias -->
 ## Referências

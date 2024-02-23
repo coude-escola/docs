@@ -14,16 +14,16 @@
   </style>
 <!-- coloração da página -->
 
-# [PHP](https://coude-escola.github.io/docs/php/) - Sumário
-- [Introdução](https://coude-escola.github.io/docs/php/introducao)
-- [Operadores](https://coude-escola.github.io/docs/php/operadores/)
-  - [Aritiméticos](https://coude-escola.github.io/docs/php/operadores/aritimeticos/)
-  - [Comparativos](https://coude-escola.github.io/docs/php/operadores/comparativos/)
-  - [Lógicos](https://coude-escola.github.io/docs/php/operadores/logicos/)
-- [Verificadores Condicionais](https://coude-escola.github.io/docs/php/verificadores-condicionais/)
-  - [If / Else if / Else](https://coude-escola.github.io/docs/php/verificadores-condicionais/if/)
-  - [Verificador Ternário](https://coude-escola.github.io/docs/php/verificadores-condicionais/verificador-ternario/)
-  - [Switch](https://coude-escola.github.io/docs/php/verificadores-condicionais/switch/)
+# [DOCS](/docs/) - [PHP](/docs/php/) - Sumário
+- [Introdução](/docs/php/introducao)
+- [Operadores](/docs/php/operadores/)
+  - [Aritiméticos](/docs/php/operadores/aritimeticos/)
+  - [Comparativos](/docs/php/operadores/comparativos/)
+  - [Lógicos](/docs/php/operadores/logicos/)
+- [Verificadores Condicionais](/docs/php/verificadores-condicionais/)
+  - [If / Else if / Else](/docs/php/verificadores-condicionais/if/)
+  - [Verificador Ternário](/docs/php/verificadores-condicionais/verificador-ternario/)
+  - [Switch](/docs/php/verificadores-condicionais/switch/)
 
 <!-- remoção do link inicial -->
   <script>

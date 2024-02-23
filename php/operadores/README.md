@@ -14,10 +14,10 @@
   </style>
 <!-- coloração da página -->
 
-# [PHP](https://coude-escola.github.io/docs/php/) - [Operadores](https://coude-escola.github.io/docs/php/operadores/) - Sumário
-  - [Aritiméticos](https://coude-escola.github.io/docs/php/operadores/aritimeticos/)
-  - [Comparativos](https://coude-escola.github.io/docs/php/operadores/comparativos/)
-  - [Lógicos](https://coude-escola.github.io/docs/php/operadores/logicos/)
+# [PHP](/docs/php/) - [Operadores](/docs/php/operadores/) - Sumário
+  - [Aritiméticos](/docs/php/operadores/aritimeticos/)
+  - [Comparativos](/docs/php/operadores/comparativos/)
+  - [Lógicos](/docs/php/operadores/logicos/)
 
 <!-- remoção do link inicial -->
   <script>

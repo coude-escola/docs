@@ -14,7 +14,7 @@
   </style>
 <!-- coloração da página -->
 
-[PHP](https://coude-escola.github.io/docs/php/) - [Verificadores condicionais](https://coude-escola.github.io/docs/php/verificadores-condicionais/)
+[PHP](/docs/php/) - [Verificadores condicionais](/docs/php/verificadores-condicionais/)
 
 <!-- referencias -->
 ## Referências
