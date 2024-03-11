@@ -35,7 +35,7 @@ Vocês verão que existem alguns valores que não foram exibidos aqui. Isso ocor
 
 ### -> Tipos de Valores
 - Null . . . . . . `Vazio`
-- Boll . . . . . . `Verdadeiro ou Falso`
+- Bool . . . . . . `Verdadeiro ou Falso`
 - Number . . `Numérico`
 - String . . . .  `Textos`
 - Array . . . . .`Coleção / Matriz`
@@ -45,7 +45,7 @@ Vocês verão que existem alguns valores que não foram exibidos aqui. Isso ocor
 ```php
   # $nome_da_variavel = <valor>;
     $null = null;
-    $boll = true;
+    $bool = true;
     $number_int = 5;
     $number_float = 6.75;
     $string = 'valor';
