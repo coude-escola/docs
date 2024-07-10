@@ -14,6 +14,8 @@
   </style>
 <!-- coloração da página -->
 
+[Sumário](/docs/sql/) > DML
+
 <!-- referencias -->
 ## Referências
 - [Link documentação externa](https://###.com)
@@ -21,6 +23,14 @@
 - [Link documentação externa](https://###.com)
 - [Link documentação externa](https://###.com)
 <!-- referencias -->
+
+### -> [DML (Data Manipulation Language)](/docs/sql/dml/)
+Manipula os dados dentro das tabelas, permitindo a inserção, atualização, exclusão e recuperação de dados.
+
+**Exemplos de comandos:**
+- *INSERT*: Insere novos registros em uma tabela.
+- *UPDATE*: Atualiza registros existentes em uma tabela.
+- *DELETE*: Exclui registros de uma tabela.
 
 <!-- remoção do link inicial -->
   <script>

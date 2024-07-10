@@ -14,9 +14,14 @@
 
 # [DOCS](/docs/) - [SQL](/docs/sql/) - Sumário
 - [Introdução](/docs/sql/introducao)
+- [DDL](/docs/sql/ddl)
+- [DML](/docs/sql/dml)
+- [DQL](/docs/sql/dql)
 
 <script>
   onload = ()=>{
+    location.href = '/docs/';
+    
     const first_a = document.querySelector('a');
     first_a.style.display = 'none';
   }

@@ -16,7 +16,7 @@
 
 Conhecendo as características fundamentais do SQL.
 
-[Sumário](/docs/sql/)
+[Sumário](/docs/sql/) > Introdução
 
 <!-- referencias -->
 ## Referências
@@ -49,7 +49,7 @@ Manipula os dados dentro das tabelas, permitindo a inserção, atualização, ex
 - *UPDATE*: Atualiza registros existentes em uma tabela.
 - *DELETE*: Exclui registros de uma tabela.
 
-### -> [DQL (Data Query  Language)](/docs/sql/dql/)
+### -> [DQL (Data Query Language)](/docs/sql/dql/)
 Realiza consultas para recuperar dados armazenados no banco de dados.
 
 **Exemplos de comandos:**
