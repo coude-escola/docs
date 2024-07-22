@@ -19,9 +19,7 @@
 - [DQL](/docs/sql/dql)
 
 <script>
-  onload = ()=>{
-    location.href = '/docs/';
-    
+  onload = ()=>{    
     const first_a = document.querySelector('a');
     first_a.style.display = 'none';
   }
